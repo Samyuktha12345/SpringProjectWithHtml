@@ -1,0 +1,16 @@
+body{
+	bg colour:pink;
+}
+h1{
+	bgcolor:red;
+	color:blue;
+	text-align:center;
+	}
+	img{
+	margin:3px;
+	padding:20px;
+	border:3px;
+	height:200px;
+	width:350px;
+	border-radius:50%;
+	}
